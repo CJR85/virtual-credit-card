@@ -56,3 +56,8 @@
   opacity: 0.3;
   z-index: -1;
 }
+
+.card-no {
+  font-size: 35px;
+  margin-top: 60px;
+}
