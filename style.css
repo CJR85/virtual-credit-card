@@ -80,3 +80,24 @@
   height: 60px;
   margin-top: 10px;
 }
+
+.card-cvv {
+  margin-top: 20px;
+}
+
+.card-cvv div {
+  flex: 1;
+}
+
+.card-cvv img {
+  width: 100%;
+  display: block;
+  line-height: 0;
+}
+
+.card-cvv p {
+  background: #fff;
+  color: #000;
+  font-size: 22px;
+  padding: 10px 20px;
+}
